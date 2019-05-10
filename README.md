@@ -1,5 +1,5 @@
-# RPG-CSharp_PG
-A Play-Ground for learning C# and ASP.NET core by building a simple webapp game.
+# Web-CSharp_ASP_PG
+A Play-Ground for learning C# and ASP.NET core by building a simple webapp.
 
 ### Resource
 
