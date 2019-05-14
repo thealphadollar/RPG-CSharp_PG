@@ -23,28 +23,32 @@ namespace MvcMovie.Models
                             Title = "When Harry Met Sally",
                             ReleaseDate = DateTime.Parse("1989-2-12"),
                             Genre = "Romantic Comedy",
-                            Price = 7.99m
+                            Price = 7.99m,
+                            Rating = "R"
                         },
                         new Movie
                         {
                             Title = "When Harry Met Sally",
                             ReleaseDate = DateTime.Parse("1989-2-12"),
                             Genre = "Romantic Comedy",
-                            Price = 7.99m
+                            Price = 7.99m,
+                            Rating = "R"
                         },
                         new Movie
                         {
                             Title = "When Harry Met Sally",
                             ReleaseDate = DateTime.Parse("1989-2-12"),
                             Genre = "Romantic Comedy",
-                            Price = 7.99m
+                            Price = 7.99m,
+                            Rating = "R"
                         },
                         new Movie
                         {
                             Title = "When Harry Met Sally",
                             ReleaseDate = DateTime.Parse("1989-2-12"),
                             Genre = "Romantic Comedy",
-                            Price = 7.99m
+                            Price = 7.99m,
+                            Rating = "R"
                         }
                     );
                     context.SaveChanges();
